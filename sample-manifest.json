@@ -1,0 +1,12 @@
+{
+  "export_job_id": "18d405e1-ad9e-4820-a23c-d7bbfe81dfec",
+  "id_short": 579786,
+  "published_at": "2026-04-16T07:46:48Z",
+  "repo_name": "all-restaurants-in-kalamazoo-portage-metro-michigan-us-sample-579786",
+  "sample_asset_name": "beamstation_579786_restaurants-us-kalamazooportagemi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/579786/beamstation_579786_restaurants-us-kalamazooportagemi_SAMPLE_DIST.csv",
+  "sample_records": 36,
+  "sample_sha256": "b261afca1dce29950fbd97a728d046d2f116743c82e6326d4df79916cc2eef8b",
+  "sample_size_bytes": 142014,
+  "total_records": 362
+}
