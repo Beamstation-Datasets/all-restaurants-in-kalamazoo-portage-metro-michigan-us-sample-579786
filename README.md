@@ -1,6 +1,6 @@
 # All Restaurants in Kalamazoo-Portage (Metro), Michigan, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `579786` |
 | Location | Kalamazoo-Portage, MI |
 | Category | Restaurants |
-| Full dataset size | 361 records |
-| Free sample size | 36 records (9.97%) |
-| Last export | 2026-04-14T12:26:21.266255+00:00 |
+| Full dataset size | 313 records |
+| Free sample size | 31 records (9.9%) |
+| Last export | 2026-04-21T13:16:51.783589+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kalamazoo-portage-metro-michigan-us-sample-579786/releases/download/sample-latest/beamstation_579786_restaurants-us-kalamazooportagemi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
